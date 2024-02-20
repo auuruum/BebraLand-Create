@@ -1,0 +1,66 @@
+type = menu
+
+customization-meta {
+  identifier = de.keksuccino.drippyloadingscreen.customization.DrippyOverlayScreen
+  randomgroup = 1
+  renderorder = foreground
+  randommode = false
+  randomonlyfirsttime = false
+}
+
+customization {
+  name = my_special_slideshow
+  action = setbackgroundslideshow
+}
+
+customization {
+  keepaspectratio = true
+  action = backgroundoptions
+}
+
+customization {
+  orientation = top-left
+  hidden = true
+  original_pos_size_calculation = true
+  x = 210
+  width = 540
+  action = deep_customization_element:drippy_overlay_logo
+  actionid = 8f9567e5-eb68-4e27-a273-9a60ddb7657d1688930661032
+  y = 203
+  height = 134
+}
+
+customization {
+  orientation = top-left
+  hidden = false
+  x = -1000000
+  width = 0
+  action = deep_customization_element:drippy_overlay_background
+  actionid = ceddea0a-a1b0-432f-b531-6f89606e93ed1688930661033
+  y = -1000000
+  height = 0
+}
+
+customization {
+  orientation = top-left
+  hidden = false
+  original_pos_size_calculation = true
+  x = 210
+  width = 540
+  action = deep_customization_element:drippy_overlay_progress_bar
+  actionid = 103d3f25-cf3f-4d41-b3c3-4a5dfededdd01688930661033
+  y = 444
+  height = 10
+}
+
+customization {
+  path = bebralandtextures/bebralandlogowithicon.png
+  orientation = top-left
+  x = 262
+  width = 427
+  action = addtexture
+  actionid = 3cbdc103-b81e-434d-86dc-9d898ab36acb1688930805792
+  y = 267
+  height = 168
+}
+

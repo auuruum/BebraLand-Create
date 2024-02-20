@@ -1,0 +1,34 @@
+type = menu
+
+customization-meta {
+  identifier = net.minecraft.client.gui.screens.worldselection.EditWorldScreen
+  randomgroup = 1
+  renderorder = foreground
+  randommode = false
+  randomonlyfirsttime = false
+}
+
+customization {
+  name = my_special_slideshow
+  action = setbackgroundslideshow
+}
+
+customization {
+  keepaspectratio = false
+  action = backgroundoptions
+}
+
+customization {
+  orientation = top-left
+  loop = true
+  channel = master
+  x = 154
+  width = 50
+  action = custom_layout_element:fancymenu_extension:audio_item
+  actionid = 7e8f9e14-c241-460c-8b17-1d4ce7dd37d81689012471383
+  y = 132
+  once_per_session = false
+  audio_source:5fb493c1-2f60-4ff3-8408-4bcab94246821689012473910 = bebralandtextures/Short River Sounds for Relaxing.ogg;EXTERNAL_LOCAL;2;0
+  height = 50
+}
+

@@ -1,0 +1,6 @@
+#556 minecraft:beach
+#010 minecraft:forest
+#4B0 minecraft:jungle
+#4F1 minecraft:ocean
+#5FF minecraft:river
+#169 minecraft:taiga

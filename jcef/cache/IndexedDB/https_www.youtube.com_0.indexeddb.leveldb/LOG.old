@@ -1,0 +1,44 @@
+2024/02/15-19:49:17.255 3d64 Reusing MANIFEST C:\Users\aurim\AppData\Roaming\.minecraft\versions\BebraLand Create\jcef\cache\IndexedDB\https_www.youtube.com_0.indexeddb.leveldb/MANIFEST-000001
+2024/02/15-19:49:17.255 3d64 Recovering log #31
+2024/02/15-19:49:17.258 3d64 Reusing old log C:\Users\aurim\AppData\Roaming\.minecraft\versions\BebraLand Create\jcef\cache\IndexedDB\https_www.youtube.com_0.indexeddb.leveldb/000031.log 
+2024/02/15-19:49:20.020 2154 Level-0 table #36: started
+2024/02/15-19:49:20.032 2154 Level-0 table #36: 284034 bytes OK
+2024/02/15-19:49:20.036 2154 Delete type=0 #31
+2024/02/15-19:49:20.036 3d64 Manual compaction at level-0 from '\x00\x10\x00\x00\x00' @ 72057594037927935 : 1 .. '\x00\x11\x00\x00\x00' @ 0 : 0; will stop at (end)
+2024/02/15-19:49:20.036 3d64 Manual compaction at level-1 from '\x00\x10\x00\x00\x00' @ 72057594037927935 : 1 .. '\x00\x11\x00\x00\x00' @ 0 : 0; will stop at '\x00\x19\x00\x00\xc8\x05\x00p\x00r\x00e\x00f\x00s' @ 15083 : 1
+2024/02/15-19:49:20.036 3d64 Compacting 1@1 + 1@2 files
+2024/02/15-19:49:20.046 3d64 Generated table #37@1: 432 keys, 25846 bytes
+2024/02/15-19:49:20.046 3d64 Compacted 1@1 + 1@2 files => 25846 bytes
+2024/02/15-19:49:20.051 3d64 compacted to: files[ 0 0 1 0 0 0 0 ]
+2024/02/15-19:49:20.052 3d64 Manual compaction at level-1 from '\x00\x19\x00\x00\xc8\x05\x00p\x00r\x00e\x00f\x00s' @ 15083 : 1 .. '\x00\x11\x00\x00\x00' @ 0 : 0; will stop at (end)
+2024/02/15-19:49:21.901 2154 Level-0 table #39: started
+2024/02/15-19:49:21.909 2154 Level-0 table #39: 1344 bytes OK
+2024/02/15-19:49:21.912 2154 Delete type=2 #33
+2024/02/15-19:49:21.912 2154 Delete type=0 #35
+2024/02/15-19:49:21.912 2154 Delete type=2 #36
+2024/02/15-19:49:21.912 3d64 Manual compaction at level-0 from '\x00\x11\x00\x00\x00' @ 72057594037927935 : 1 .. '\x00\x12\x00\x00\x00' @ 0 : 0; will stop at (end)
+2024/02/15-19:49:21.912 3d64 Manual compaction at level-1 from '\x00\x11\x00\x00\x00' @ 72057594037927935 : 1 .. '\x00\x12\x00\x00\x00' @ 0 : 0; will stop at '\x00\x11\x00\x00\xc8\x0b\x00E\x00n\x00t\x00i\x00t\x00y\x00S\x00t\x00o\x00r\x00e' @ 15230 : 0
+2024/02/15-19:49:21.912 3d64 Compacting 1@1 + 1@2 files
+2024/02/15-19:49:21.920 3d64 Generated table #40@1: 399 keys, 25519 bytes
+2024/02/15-19:49:21.920 3d64 Compacted 1@1 + 1@2 files => 25519 bytes
+2024/02/15-19:49:21.922 3d64 compacted to: files[ 0 0 1 0 0 0 0 ]
+2024/02/15-19:49:21.923 3d64 Delete type=2 #39
+2024/02/15-19:49:21.923 3d64 Manual compaction at level-1 from '\x00\x11\x00\x00\xc8\x0b\x00E\x00n\x00t\x00i\x00t\x00y\x00S\x00t\x00o\x00r\x00e' @ 15230 : 0 .. '\x00\x12\x00\x00\x00' @ 0 : 0; will stop at (end)
+2024/02/15-19:49:22.291 2154 Manual compaction at level-0 from '\x00\x14\x00\x00\x00' @ 72057594037927935 : 1 .. '\x00\x15\x00\x00\x00' @ 0 : 0; will stop at (end)
+2024/02/15-19:49:22.291 2154 Manual compaction at level-1 from '\x00\x14\x00\x00\x00' @ 72057594037927935 : 1 .. '\x00\x15\x00\x00\x00' @ 0 : 0; will stop at (end)
+2024/02/15-19:49:22.508 3d64 Level-0 table #42: started
+2024/02/15-19:49:22.512 3d64 Level-0 table #42: 45079 bytes OK
+2024/02/15-19:49:22.515 3d64 Delete type=2 #37
+2024/02/15-19:49:22.515 3d64 Delete type=0 #38
+2024/02/15-19:49:22.518 3d64 Manual compaction at level-0 from '\x00\x12\x00\x00\x00' @ 72057594037927935 : 1 .. '\x00\x13\x00\x00\x00' @ 0 : 0; will stop at (end)
+2024/02/15-19:49:22.518 3d64 Manual compaction at level-1 from '\x00\x12\x00\x00\x00' @ 72057594037927935 : 1 .. '\x00\x13\x00\x00\x00' @ 0 : 0; will stop at '\x00\x1b\x01 \x03\x00\x00\x00\x00\x00\x00\xf0?\x00\x04\x02\x01\x17\x00s\x00e\x00r\x00v\x00i\x00c\x00e\x00:\x00t\x00o\x00p\x00b\x00a\x00r\x00:\x00f\x00a\x00l\x00l\x00b\x00a\x00c\x00k\x03\x00\x00\x00\x00\x00\x00\xf0?' @ 15455 : 1
+2024/02/15-19:49:22.518 3d64 Compacting 1@1 + 1@2 files
+2024/02/15-19:49:22.523 3d64 Generated table #43@1: 356 keys, 18020 bytes
+2024/02/15-19:49:22.523 3d64 Compacted 1@1 + 1@2 files => 18020 bytes
+2024/02/15-19:49:22.526 3d64 compacted to: files[ 0 0 1 0 0 0 0 ]
+2024/02/15-19:49:22.527 3d64 Delete type=2 #42
+2024/02/15-19:49:22.527 3d64 Manual compaction at level-1 from '\x00\x1b\x01 \x03\x00\x00\x00\x00\x00\x00\xf0?\x00\x04\x02\x01\x17\x00s\x00e\x00r\x00v\x00i\x00c\x00e\x00:\x00t\x00o\x00p\x00b\x00a\x00r\x00:\x00f\x00a\x00l\x00l\x00b\x00a\x00c\x00k\x03\x00\x00\x00\x00\x00\x00\xf0?' @ 15455 : 1 .. '\x00\x13\x00\x00\x00' @ 0 : 0; will stop at (end)
+2024/02/15-19:49:22.652 2154 Manual compaction at level-0 from '\x00\x15\x00\x00\x00' @ 72057594037927935 : 1 .. '\x00\x16\x00\x00\x00' @ 0 : 0; will stop at (end)
+2024/02/15-19:49:22.652 2154 Manual compaction at level-1 from '\x00\x15\x00\x00\x00' @ 72057594037927935 : 1 .. '\x00\x16\x00\x00\x00' @ 0 : 0; will stop at (end)
+2024/02/15-19:49:22.672 2154 Manual compaction at level-0 from '\x00\x13\x00\x00\x00' @ 72057594037927935 : 1 .. '\x00\x14\x00\x00\x00' @ 0 : 0; will stop at (end)
+2024/02/15-19:49:22.672 2154 Manual compaction at level-1 from '\x00\x13\x00\x00\x00' @ 72057594037927935 : 1 .. '\x00\x14\x00\x00\x00' @ 0 : 0; will stop at (end)

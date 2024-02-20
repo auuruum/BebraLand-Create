@@ -1,0 +1,11 @@
+#If enabled, gamerule commands for this options will do nothing. (Requires game restart)
+control_via_config = false
+#Prevent Ghasts from breaking blocks when attacking?
+do_ghast_block_damage = true
+#Prevent Creepers from breaking blocks when they explode?
+do_creeper_block_damage = true
+#Stop Endermen moving blocks?
+let_endermen_move_blocks = true
+#Prevent Withers from breaking blocks when attacking?
+do_wither_block_damage = true
+

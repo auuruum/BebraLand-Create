@@ -1,0 +1,23 @@
+# First line of Rich Presence
+name = "Forge 1.19"
+# Placeholders:
+# %ip%  Server IP
+serverMessage = "Playing on %ip%"
+# No placeholders supported, Text that shows when you are in the main menu
+menuText = "In Main Menu"
+# Placeholders:
+# %coords% (X:??? Y:??? Z:???)
+# %world% World name
+worldMessage = "Playing in %world% (%coords%)"
+# Custom client id, see https://github.com/ErdbeerbaerLP/DiscordRichPresence/wiki/Set-up-custom-Icons-(for-Modpacks) for more info
+clientID = "511106082366554122"
+# Do you want to use custom Hypixel integration (show what game you are playing and such)?
+hypixelIntegration = true
+# Do you want servers to send you a customized rich presence text?
+# Also toggles hardcoded custom icons and text of not fully integrated servers like mineplex
+customIntegration = true
+# Disables config GUI
+# Requires config file editing to enable again
+configGUIDisabled = false
+# Setting this to true disables name changing through GUI
+preventClientNameChange = false

@@ -1,0 +1,6 @@
+minecraft:overworld
+minecraft:the_nether
+minecraft:mine
+minecraft:farm
+minecraft:the_end
+minecraft:minenether

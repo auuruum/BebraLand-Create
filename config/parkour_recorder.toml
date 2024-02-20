@@ -1,0 +1,17 @@
+
+["Recording Settings"]
+	#It will be played endlessly. If enabled, the end and start points must be the same when recording.
+	enableLoop = false
+
+["Playback Settings"]
+	#If enabled, a HUD displaying input states will be shown.
+	showInputs = false
+
+["Timeline Settings"]
+	#The format of how time is displayed in Timeline Gui.
+	timeStampFormat = "ticks"
+
+["Menu Settings"]
+	#If enabled, the server ip will be hidden.
+	hiddenIp = false
+

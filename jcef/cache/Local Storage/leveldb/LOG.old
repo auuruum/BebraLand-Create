@@ -1,0 +1,15 @@
+2024/02/15-19:15:07.136 1838 Reusing MANIFEST C:\Users\aurim\AppData\Roaming\.minecraft\versions\BebraLand Create\jcef\cache\Local Storage\leveldb/MANIFEST-000001
+2024/02/15-19:15:07.137 1838 Recovering log #3
+2024/02/15-19:15:07.139 1838 Reusing old log C:\Users\aurim\AppData\Roaming\.minecraft\versions\BebraLand Create\jcef\cache\Local Storage\leveldb/000003.log 
+2024/02/15-19:36:48.509 34a4 Level-0 table #5: started
+2024/02/15-19:36:48.514 34a4 Level-0 table #5: 41864 bytes OK
+2024/02/15-19:36:48.520 34a4 Delete type=0 #3
+2024/02/15-19:37:31.630 34a4 Level-0 table #7: started
+2024/02/15-19:37:31.638 34a4 Level-0 table #7: 85115 bytes OK
+2024/02/15-19:37:31.644 34a4 Delete type=0 #4
+2024/02/15-19:40:05.688 34a4 Level-0 table #9: started
+2024/02/15-19:40:05.692 34a4 Level-0 table #9: 134600 bytes OK
+2024/02/15-19:40:05.696 34a4 Delete type=0 #6
+2024/02/15-19:41:54.780 34a4 Level-0 table #11: started
+2024/02/15-19:41:54.786 34a4 Level-0 table #11: 38770 bytes OK
+2024/02/15-19:41:54.793 34a4 Delete type=0 #8

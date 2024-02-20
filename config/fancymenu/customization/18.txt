@@ -1,0 +1,34 @@
+type = menu
+
+customization-meta {
+  identifier = me.flashyreese.mods.reeses_sodium_options.client.gui.SodiumVideoOptionsScreen
+  randomgroup = 1
+  renderorder = foreground
+  randommode = false
+  randomonlyfirsttime = false
+}
+
+customization {
+  name = my_special_slideshow
+  action = setbackgroundslideshow
+}
+
+customization {
+  keepaspectratio = false
+  action = backgroundoptions
+}
+
+customization {
+  orientation = top-left
+  loop = true
+  audio_source:6b7bb1b2-a4bb-4d05-9176-092e3ae11ba81689012891221 = bebralandtextures/Short River Sounds for Relaxing.ogg;EXTERNAL_LOCAL;2;0
+  channel = master
+  x = 132
+  width = 50
+  action = custom_layout_element:fancymenu_extension:audio_item
+  actionid = f7a92a8b-a9f0-4a5d-b309-bad5bd1954331689012882878
+  y = 211
+  once_per_session = false
+  height = 50
+}
+

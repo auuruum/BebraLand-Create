@@ -1,0 +1,136 @@
+type = menu
+
+customization-meta {
+  identifier = net.minecraft.client.gui.screens.TitleScreen
+  randomgroup = 1
+  renderorder = foreground
+  randommode = false
+  randomonlyfirsttime = false
+}
+
+customization {
+  name = my_special_slideshow
+  action = setbackgroundslideshow
+}
+
+customization {
+  keepaspectratio = true
+  action = backgroundoptions
+}
+
+customization {
+  identifier = %id=button_compatibility_id:mc_titlescreen_singleplayer_button%
+  orientation = element
+  orientation_element = 63308c37-8931-402d-8a83-593c085fe6d31688417116768
+  x = 381
+  action = movebutton
+  y = 183
+}
+
+customization {
+  orientation = top-left
+  hidden = true
+  x = 346
+  width = 268
+  action = deep_customization_element:title_screen_forge_top
+  actionid = 6bd5c088-a729-4f5e-afe8-b863545f48e31688416550112
+  y = 4
+  height = 19
+}
+
+customization {
+  orientation = top-left
+  hidden = false
+  x = 2
+  width = 108
+  action = deep_customization_element:title_screen_branding
+  actionid = 79599762-8a99-44b3-9abc-6a58d6c5b2b51688416550112
+  y = 498
+  height = 40
+}
+
+customization {
+  orientation = top-left
+  hidden = true
+  x = 731
+  width = 228
+  action = deep_customization_element:title_screen_forge_copyright
+  actionid = 57d3fb2a-6a79-4a96-b69f-c7199896421b1688416550112
+  y = 520
+  height = 9
+}
+
+customization {
+  orientation = top-left
+  hidden = false
+  x = 583
+  width = 13
+  action = deep_customization_element:title_screen_realms_notification
+  actionid = b4b99483-01ce-437e-b794-96cc8d3bb56c1688416550113
+  y = 235
+  height = 13
+}
+
+customization {
+  orientation = top-left
+  hidden = true
+  x = 343
+  width = 274
+  action = deep_customization_element:title_screen_logo
+  actionid = 8dc092fe-6975-4bed-94fe-376ce235a0d21688416550113
+  y = 30
+  height = 52
+}
+
+customization {
+  orientation = original
+  splash_color = #ffff00
+  hidden = true
+  x = 0
+  width = 60
+  splash_rotation = -20
+  action = deep_customization_element:title_screen_splash
+  actionid = 024a8040-4e12-4ca0-a6d4-eabb09d42bc51688416550113
+  y = 0
+  height = 30
+}
+
+customization {
+  orientation = top-left
+  loopbackgroundanimations = true
+  restartbackgroundanimations = true
+  buttonaction = openlink;http://bebraland.servegame.com/%btnaction_splitter_fm%
+  x = 856
+  width = 100
+  action = addbutton
+  actionid = 0b2a932c-9ca9-4a56-b812-5bf98dd55c9c1688929799483
+  y = 508
+  label = WebSite
+  height = 20
+}
+
+customization {
+  orientation = top-left
+  loopbackgroundanimations = true
+  restartbackgroundanimations = true
+  buttonaction = joinserver;78.31.184.77:25565%btnaction_splitter_fm%
+  x = 583
+  width = 100
+  action = addbutton
+  actionid = ee3d0efa-f943-4ed6-b2e3-96a0a37a1ece1688930547747
+  y = 207
+  label = BebraLand Server
+  height = 20
+}
+
+customization {
+  path = bebralandtextures/bebralandlogowithicon.png
+  orientation = top-centered
+  x = -188
+  width = 377
+  action = addtexture
+  actionid = e263b0e1-984d-4899-84c7-d7b6f56cf22f1689002994717
+  y = 24
+  height = 149
+}
+

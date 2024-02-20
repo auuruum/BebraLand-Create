@@ -1,0 +1,147 @@
+type = menu
+
+customization-meta {
+  identifier = net.minecraft.client.gui.screens.PauseScreen
+  randomgroup = 1
+  renderorder = foreground
+  randommode = false
+  custom_menu_title = 
+  randomonlyfirsttime = false
+}
+
+customization {
+  keepaspectratio = false
+  action = backgroundoptions
+}
+
+customization {
+  orientation = top-right
+  enable_scrolling = true
+  shadow = true
+  scale = 1.5
+  source = Create server status {"placeholder":"serverstatus","values":{"ip":"78.31.184.77:25567"}}%n%Online {"placeholder":"serverplayercount","values":{"ip":"78.31.184.77:25567"}}
+  text_border = 0
+  case_mode = normal
+  source_mode = direct
+  line_spacing = 1
+  x = -229
+  width = 229
+  action = custom_layout_element:fancymenu_customization_item_text
+  actionid = 00b5dd0f-67e2-47de-8614-d0b4a59ba2871688931067892
+  y = 0
+  alignment = centered
+  height = 46
+}
+
+customization {
+  path = bebralandtextures/637588742363737916.png
+  orientation = top-left
+  x = 690
+  width = 44
+  action = addtexture
+  actionid = 11a13281-2726-4530-b11e-ff13e86cee641688945888796
+  y = 13
+  height = 44
+}
+
+customization {
+  path = bebralandtextures/bebralandlogowithicon.png
+  orientation = top-centered
+  x = -145
+  width = 291
+  action = addtexture
+  actionid = 0b83a2a5-f663-4b83-8d1a-034ea9998ff41688947435364
+  y = 21
+  height = 115
+}
+
+customization {
+  orientation = top-left
+  enable_scrolling = true
+  shadow = true
+  scale = 1.0
+  source = Time {"placeholder":"realtimehour"}:{"placeholder":"realtimeminute"}:{"placeholder":"realtimesecond"}
+  text_border = 0
+  case_mode = normal
+  source_mode = direct
+  line_spacing = 1
+  x = 0
+  width = 200
+  action = custom_layout_element:fancymenu_customization_item_text
+  actionid = 92f195c4-b4fd-4201-86ed-734f89f418051688947958521
+  y = 0
+  alignment = left
+  height = 15
+}
+
+customization {
+  orientation = bottom-right
+  enable_scrolling = true
+  shadow = true
+  scale = 1.0
+  source = {"placeholder":"drippy_cpu_info"}%n%{"placeholder":"drippy_gpu_info"}%n%{"placeholder":"drippy_operating_system"}
+  text_border = 0
+  case_mode = normal
+  source_mode = direct
+  line_spacing = 1
+  x = -364
+  width = 364
+  action = custom_layout_element:fancymenu_customization_item_text
+  actionid = 7f31fa33-576c-45ab-8b39-d336463c75e81688949045782
+  y = -32
+  alignment = right
+  height = 32
+}
+
+customization {
+  orientation = element
+  loopbackgroundanimations = true
+  restartbackgroundanimations = true
+  orientation_element = vanillabtn:button_compatibility_id:mc_pausescreen_disconnect_button
+  buttonaction = quitgame%btnaction_splitter_fm%
+  x = 0
+  width = 204
+  action = addbutton
+  actionid = 55d77a54-040c-4018-b749-bd30adb7e9761688949457606
+  y = 24
+  label = §4Leave the Game
+  height = 20
+}
+
+customization {
+  path = bebralandtextures/createlogo.png
+  orientation = top-right
+  x = -257
+  width = 28
+  action = addtexture
+  actionid = 766edd55-1e61-4b90-a271-47cf41b24da51689005202138
+  y = 1
+  height = 28
+}
+
+customization {
+  orientation = top-right
+  loopbackgroundanimations = true
+  restartbackgroundanimations = true
+  buttonaction = sendmessage;/server create%btnaction_splitter_fm%closegui%btnaction_splitter_fm%
+  x = -228
+  width = 228
+  action = addbutton
+  actionid = c92cfb36-9695-414e-80d4-fa86400be0df1694374154834
+  y = 34
+  label = Connect
+  height = 20
+}
+
+customization {
+  identifier = %id=button_compatibility_id:mc_pausescreen_return_to_game_button%
+  action = setbuttonlabel
+  value = Back to the &6BebraLand
+}
+
+customization {
+  identifier = %id=button_compatibility_id:mc_pausescreen_disconnect_button%
+  action = setbuttonlabel
+  value = &2Leave to main menu
+}
+

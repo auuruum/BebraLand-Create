@@ -1,0 +1,4 @@
+#556 minecraft:beach
+#4B0 minecraft:jungle
+#4F1 minecraft:ocean
+#5FF minecraft:river

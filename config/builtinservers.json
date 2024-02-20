@@ -1,0 +1,10 @@
+{
+  "badgeVisible": false,
+  "builtinServers": [
+    {
+      "name": "BebraLand",
+      "address": "78.31.184.77:25565",
+      "forced": true
+    }
+  ]
+}

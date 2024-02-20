@@ -1,0 +1,8 @@
+#556 minecraft:beach
+#570 minecraft:crimson_forest
+#79A minecraft:lukewarm_ocean
+#653 minecraft:nether_wastes
+#5FF minecraft:river
+#67B minecraft:savanna
+#721 minecraft:soul_sand_valley
+#628 minecraft:warped_forest

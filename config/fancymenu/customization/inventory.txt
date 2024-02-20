@@ -1,0 +1,26 @@
+type = menu
+
+customization-meta {
+  identifier = net.minecraft.client.gui.screens.inventory.CreativeModeInventoryScreen
+  randomgroup = 1
+  renderorder = foreground
+  randommode = false
+  randomonlyfirsttime = false
+}
+
+customization {
+  keepaspectratio = false
+  action = backgroundoptions
+}
+
+customization {
+  path = bebralandtextures/bebralandlogowithicon.png
+  orientation = top-centered
+  x = -127
+  width = 254
+  action = addtexture
+  actionid = cb2672d1-23c2-4857-ba6c-c8c89b42512a1689013734211
+  y = 33
+  height = 100
+}
+

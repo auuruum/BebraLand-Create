@@ -1,0 +1,253 @@
+type = menu
+
+customization-meta {
+  identifier = net.minecraft.client.gui.screens.TitleScreen
+  randomgroup = 1
+  renderorder = foreground
+  randommode = false
+  randomonlyfirsttime = false
+}
+
+customization {
+  name = my_special_slideshow
+  action = setbackgroundslideshow
+}
+
+customization {
+  keepaspectratio = true
+  action = backgroundoptions
+}
+
+customization {
+  identifier = %id=button_compatibility_id:mc_titlescreen_copyright_button%
+  action = hidebutton
+}
+
+customization {
+  identifier = %id=button_compatibility_id:mc_titlescreen_multiplayer_button%
+  orientation = mid-left
+  x = 2
+  action = movebutton
+  y = 15
+}
+
+customization {
+  identifier = %id=button_compatibility_id:mc_titlescreen_accessibility_button%
+  orientation = bottom-left
+  x = 2
+  action = movebutton
+  y = -46
+}
+
+customization {
+  identifier = %id=376322%
+  orientation = bottom-left
+  x = 2
+  action = movebutton
+  y = -70
+}
+
+customization {
+  identifier = %id=button_compatibility_id:mc_titlescreen_options_button%
+  orientation = mid-left
+  x = 2
+  action = movebutton
+  y = 63
+}
+
+customization {
+  identifier = %id=button_compatibility_id:mc_titlescreen_quit_button%
+  orientation = mid-left
+  x = 104
+  action = movebutton
+  y = 63
+}
+
+customization {
+  identifier = %id=button_compatibility_id:mc_titlescreen_language_button%
+  orientation = bottom-left
+  x = 2
+  action = movebutton
+  y = -22
+}
+
+customization {
+  identifier = %id=button_compatibility_id:mc_titlescreen_singleplayer_button%
+  orientation = mid-left
+  x = 2
+  action = movebutton
+  y = -9
+}
+
+customization {
+  identifier = %id=button_compatibility_id:forge_titlescreen_mods_button%
+  orientation = bottom-left
+  x = 26
+  action = movebutton
+  y = -22
+}
+
+customization {
+  identifier = %id=button_compatibility_id:mc_titlescreen_realms_button%
+  action = hidebutton
+}
+
+customization {
+  identifier = %id=button_compatibility_id:mc_titlescreen_realms_button%
+  orientation = mid-left
+  x = 108
+  action = movebutton
+  y = -20
+}
+
+customization {
+  orientation = top-left
+  hidden = true
+  x = 346
+  width = 268
+  action = deep_customization_element:title_screen_forge_top
+  actionid = 6bd5c088-a729-4f5e-afe8-b863545f48e31688416550112
+  y = 4
+  height = 19
+}
+
+customization {
+  orientation = top-left
+  hidden = true
+  x = 2
+  width = 108
+  action = deep_customization_element:title_screen_branding
+  actionid = 79599762-8a99-44b3-9abc-6a58d6c5b2b51688416550112
+  y = 498
+  height = 40
+}
+
+customization {
+  orientation = top-left
+  hidden = true
+  x = 731
+  width = 228
+  action = deep_customization_element:title_screen_forge_copyright
+  actionid = 57d3fb2a-6a79-4a96-b69f-c7199896421b1688416550112
+  y = 520
+  height = 9
+}
+
+customization {
+  orientation = top-left
+  hidden = true
+  x = 583
+  width = 13
+  action = deep_customization_element:title_screen_realms_notification
+  actionid = b4b99483-01ce-437e-b794-96cc8d3bb56c1688416550113
+  y = 235
+  height = 13
+}
+
+customization {
+  orientation = top-left
+  hidden = true
+  x = 343
+  width = 274
+  action = deep_customization_element:title_screen_logo
+  actionid = 8dc092fe-6975-4bed-94fe-376ce235a0d21688416550113
+  y = 30
+  height = 52
+}
+
+customization {
+  orientation = original
+  splash_color = #ffff00
+  hidden = true
+  x = 0
+  width = 60
+  splash_rotation = -20
+  action = deep_customization_element:title_screen_splash
+  actionid = 024a8040-4e12-4ca0-a6d4-eabb09d42bc51688416550113
+  y = 0
+  height = 30
+}
+
+customization {
+  orientation = bottom-left
+  loopbackgroundanimations = true
+  restartbackgroundanimations = true
+  buttonaction = openlink;http://bebraland.servegame.com/%btnaction_splitter_fm%
+  x = 26
+  width = 98
+  action = addbutton
+  actionid = 0b2a932c-9ca9-4a56-b812-5bf98dd55c9c1688929799483
+  y = -45
+  label = Website
+  height = 20
+}
+
+customization {
+  orientation = mid-left
+  loopbackgroundanimations = true
+  restartbackgroundanimations = true
+  buttonaction = joinserver;78.31.184.77:25565%btnaction_splitter_fm%
+  x = 2
+  width = 200
+  action = addbutton
+  actionid = ee3d0efa-f943-4ed6-b2e3-96a0a37a1ece1688930547747
+  y = 39
+  label = BebraLand Server
+  height = 20
+}
+
+customization {
+  path = bebralandtextures/bebralandlogowithicon.png
+  orientation = top-centered
+  x = -188
+  width = 377
+  action = addtexture
+  actionid = e263b0e1-984d-4899-84c7-d7b6f56cf22f1689002994717
+  y = 24
+  height = 149
+}
+
+customization {
+  path = bebralandtextures/logo.png
+  orientation = mid-left
+  x = 177
+  width = 20
+  action = addtexture
+  actionid = 4e85fcfe-cdf6-40d0-80c9-c6df73702ac21689008932235
+  y = 39
+  height = 20
+}
+
+customization {
+  path = bebralandtextures/logo.png
+  orientation = mid-left
+  x = 6
+  width = 20
+  action = addtexture
+  actionid = 5dae961f-cbf0-4062-bfdb-c2429a041a361689009139683
+  y = 39
+  height = 20
+}
+
+customization {
+  orientation = top-left
+  loop = true
+  channel = master
+  x = 89
+  width = 50
+  action = custom_layout_element:fancymenu_extension:audio_item
+  actionid = 76d9109b-5912-4eea-b9ce-9834e54c4d421689012132893
+  y = 94
+  audio_source:2b9f34c0-f488-46ff-89fc-c4d082a818621689012135328 = bebralandtextures/Short River Sounds for Relaxing.ogg;EXTERNAL_LOCAL;2;0
+  once_per_session = false
+  height = 50
+}
+
+customization {
+  identifier = %id=604322%
+  orientation = bottom-left
+  x = 26
+  action = movebutton
+  y = -70
+}
+

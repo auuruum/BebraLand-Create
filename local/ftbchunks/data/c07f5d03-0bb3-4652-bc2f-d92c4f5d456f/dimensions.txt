@@ -1,0 +1,3 @@
+minecraft:overworld
+minecraft:mine
+minecraft:the_nether

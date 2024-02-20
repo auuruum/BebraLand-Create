@@ -1,0 +1,34 @@
+type = menu
+
+customization-meta {
+  identifier = net.minecraft.client.gui.screens.OptionsScreen
+  randomgroup = 1
+  renderorder = foreground
+  randommode = false
+  randomonlyfirsttime = false
+}
+
+customization {
+  name = my_special_slideshow
+  action = setbackgroundslideshow
+}
+
+customization {
+  keepaspectratio = false
+  action = backgroundoptions
+}
+
+customization {
+  orientation = top-left
+  audio_source:4dab8a36-643f-4849-9f74-3aa3c19422c51689012730236 = bebralandtextures/Short River Sounds for Relaxing.ogg;EXTERNAL_LOCAL;2;0
+  loop = true
+  channel = master
+  x = 106
+  width = 50
+  action = custom_layout_element:fancymenu_extension:audio_item
+  actionid = abe051c2-32f3-4144-8266-06127fb13a291689012727748
+  y = 112
+  once_per_session = false
+  height = 50
+}
+
