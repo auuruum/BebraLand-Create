@@ -1,3 +1,2 @@
 mods
 config
-options.txt
