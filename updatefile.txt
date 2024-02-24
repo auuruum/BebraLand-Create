@@ -1,5 +1,3 @@
 mods
 config
-itlt
 options.txt
-local
