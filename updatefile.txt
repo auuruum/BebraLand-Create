@@ -1,4 +1,0 @@
-mods
-config
-options.txt
-itlt
