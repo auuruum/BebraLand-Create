@@ -4,6 +4,8 @@
     "examplemod:example_item",
     "createdieselgenerators:chemical_sprayer",
     "createdieselgenerators:chemical_sprayer_lighter",
+    "createdieselgenerators:lighter",
+    "createaddition:electrum_amulet",
     "create_sa:flamethrower"
   ],
   "only_disable_interactions": [
@@ -12,6 +14,8 @@
     "examplemod:example_item",
     "createdieselgenerators:chemical_sprayer",
     "createdieselgenerators:chemical_sprayer_lighter",
+    "createdieselgenerators:lighter",
+    "createaddition:electrum_amulet",
     "create_sa:flamethrower"
   ],
   "only_disable_attacks": [
@@ -20,6 +24,8 @@
     "examplemod:example_item",
     "createdieselgenerators:chemical_sprayer",
     "createdieselgenerators:chemical_sprayer_lighter",
+    "createdieselgenerators:lighter",
+    "createaddition:electrum_amulet",
     "create_sa:flamethrower"
   ],
   "only_disable_recipes": [
@@ -28,6 +34,8 @@
     "examplemod:example_item",
     "createdieselgenerators:chemical_sprayer",
     "createdieselgenerators:chemical_sprayer_lighter",
+    "createdieselgenerators:lighter",
+    "createaddition:electrum_amulet",
     "create_sa:flamethrower"
   ]
 }
