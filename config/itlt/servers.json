@@ -1,0 +1,5 @@
+server {
+	B:AddDedicatedServer=true
+	S:ServerIP=78.31.184.77:25565
+	S:ServerName=BebraLand
+}

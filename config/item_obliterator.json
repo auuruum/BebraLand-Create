@@ -1,0 +1,33 @@
+{
+  "blacklisted_items": [
+    "//Items here will be unusable completely",
+    "examplemod:example_item",
+    "createdieselgenerators:chemical_sprayer",
+    "createdieselgenerators:chemical_sprayer_lighter",
+    "create_sa:flamethrower"
+  ],
+  "only_disable_interactions": [
+    "//Items here will not be able to be right-clicked (Interact)",
+    "//Keep in mind this already is applied to blacklisted items",
+    "examplemod:example_item",
+    "createdieselgenerators:chemical_sprayer",
+    "createdieselgenerators:chemical_sprayer_lighter",
+    "create_sa:flamethrower"
+  ],
+  "only_disable_attacks": [
+    "//Items here will not be able to be used to attack",
+    "//Keep in mind this already is applied to blacklisted items",
+    "examplemod:example_item",
+    "createdieselgenerators:chemical_sprayer",
+    "createdieselgenerators:chemical_sprayer_lighter",
+    "create_sa:flamethrower"
+  ],
+  "only_disable_recipes": [
+    "//Items here will get their recipes disabled",
+    "//Keep in mind this already is applied to blacklisted items",
+    "examplemod:example_item",
+    "createdieselgenerators:chemical_sprayer",
+    "createdieselgenerators:chemical_sprayer_lighter",
+    "create_sa:flamethrower"
+  ]
+}
