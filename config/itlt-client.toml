@@ -365,7 +365,7 @@
 		# - "ModpackName v2 based on %mc" = "ModpackName v2 based on Minecraft* 1.19"
 		# 
 		# Note: enableCustomWindowTitle must be enabled for this to take effect.
-		customWindowTitleText = "BebraLand - %mc"
+		customWindowTitleText = "BebraLand Create 2.0 - %mc"
 		# 
 		# Enable this if you want to change the name of the Minecraft window.
 		enableCustomWindowTitle = true
@@ -381,20 +381,20 @@
 		# changelog before updating if you use this. The changelog will make any breaking changes
 		# to this feature clear. If there's no mention of this feature in the changelog, rest assured
 		# you can update without needing to make any changes to your welcome.txt.
-		enableWelcomeScreen = false
+		enableWelcomeScreen = true
 		# 
 		# The welcome screen header shows "Welcome to x". This setting lets you change x.
 		# 
 		# - If blank (default), itlt will use your modpack's name from [Display.General] modpackName.
 		# - Otherwise x will be whatever you put here.
-		customWelcomeHeaderModpackDisplayName = "BebraLand"
+		customWelcomeHeaderModpackDisplayName = "BebraLand Create 2.0"
 
 	[Display.General]
 		# 
 		# The name of your modpack.
 		# If blank, the modpack name will be auto-detected from supported launchers.
 		# This auto-detection isn't perfect, so you can override it here if needed.
-		modpackName = "BebraLand"
+		modpackName = "BebraLand Create 2.0"
 
 	[Display.Icon]
 		# 
