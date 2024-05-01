@@ -1,0 +1,36 @@
+[
+    {
+        "section": "BebraLand Create 2",
+        "titles": [
+            {
+                "title": "Owner",
+                "names": [
+                    "Aurimas Dovgialo"
+                ]
+            }
+        ]
+    },
+    {
+        "section": "Design",
+        "titles": [
+            {
+                "title": "Chief Creative Officers",
+                "names": [
+                    "Nikita Kislovskij",
+                    "Austėja Augulytė"
+                ]
+            }
+        ]
+    },
+    {
+        "section": "Programming",
+        "titles": [
+            {
+                "title": "Chief Technology Officer",
+                "names": [
+                    "Aurimas Dovgialo"
+                ]
+            }
+        ]
+    }
+]

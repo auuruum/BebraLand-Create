@@ -52,6 +52,11 @@
 				fox = true
 				cod = true
 				ender_dragon = true
+				drowned = true
+				horse = true
+				eye_of_ender = true
+				llama = true
+				donkey = true
 
 			[light_sources.settings.entities.beaver]
 				beaver = true
@@ -63,4 +68,7 @@
 
 			[light_sources.settings.entities.enigmaticgraves]
 				grave = true
+
+			[light_sources.settings.entities.lootr]
+				lootr_minecart = true
 
