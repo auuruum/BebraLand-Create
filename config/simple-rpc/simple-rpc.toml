@@ -6,7 +6,7 @@
 	#Enable/Disable debugging mode. WARNING: MAY CAUSE LOG SPAM!
 	debugging = false
 	#Enable/Disable the in game config screen. ONLY AVAILABLE WHEN CLOTH CONFIG IS INSTALLED!
-	configScreen = true
+	configScreen = false
 	#Display the Icon and Pack Name in place of LargeImage from compatible launchers. DOES NOT WORK WITH CUSTOM APPS! ONLY THE DEFAULT ONE!
 	launcherIntegration = false
 	#Internal Version Number. NO TOUCHY!
@@ -22,11 +22,11 @@
 	#The Asset ID/URL of the image to display as the large image
 	largeImageKey = ["bebralandicon"]
 	#The text that gets displayed when the large image is hovered
-	largeImageText = "It's BebraLand Create (Minecraft)"
+	largeImageText = "It's BebraLand Create 2 (Minecraft)"
 	#The Asset ID/URL of the image to display as the small image
 	smallImageKey = ["mclogo"]
 	#The text that gets displayed when the small image is hovered
-	smallImageText = "BebraLand Create (%mcver%)"
+	smallImageText = "BebraLand Create 2 (%mcver%)"
 	#The buttons to display on Discord 
 
 	[[init.buttons]]
@@ -35,7 +35,7 @@
 
 	[[init.buttons]]
 		label = "Discord"
-		url = "https://discord.gg/a2vd5W9dGM"
+		url = "https://discord.gg/gVmrffxDMS"
 
 
 [main_menu]
@@ -48,11 +48,11 @@
 	#The Asset ID/URL of the image to display as the large image
 	largeImageKey = ["bebralandicon"]
 	#The text that gets displayed when the large image is hovered
-	largeImageText = "It's BebraLand Create (Minecraft)"
+	largeImageText = "It's BebraLand Create 2 (Minecraft)"
 	#The Asset ID/URL of the image to display as the small image
 	smallImageKey = ["mclogo"]
 	#The text that gets displayed when the small image is hovered
-	smallImageText = "BebraLand Create (%mcver%)"
+	smallImageText = "BebraLand Create 2 (%mcver%)"
 	#The buttons to display on Discord 
 
 	[[main_menu.buttons]]
@@ -61,7 +61,7 @@
 
 	[[main_menu.buttons]]
 		label = "Discord"
-		url = "https://discord.gg/a2vd5W9dGM"
+		url = "https://discord.gg/gVmrffxDMS"
 
 
 [server_list]
@@ -74,11 +74,11 @@
 	#The Asset ID/URL of the image to display as the large image
 	largeImageKey = ["bebralandicon"]
 	#The text that gets displayed when the large image is hovered
-	largeImageText = "It's BebraLand Create (Minecraft)"
+	largeImageText = "It's BebraLand Create 2 (Minecraft)"
 	#The Asset ID/URL of the image to display as the small image
 	smallImageKey = ["mclogo"]
 	#The text that gets displayed when the small image is hovered
-	smallImageText = "BebraLand Create (%mcver%)"
+	smallImageText = "BebraLand Create 2 (%mcver%)"
 	#The buttons to display on Discord 
 
 	[[server_list.buttons]]
@@ -87,7 +87,7 @@
 
 	[[server_list.buttons]]
 		label = "Discord"
-		url = "https://discord.gg/a2vd5W9dGM"
+		url = "https://discord.gg/gVmrffxDMS"
 
 
 [realms_list]
@@ -100,11 +100,11 @@
 	#The Asset ID/URL of the image to display as the large image
 	largeImageKey = ["bebralandicon"]
 	#The text that gets displayed when the large image is hovered
-	largeImageText = "It's BebraLand Create (Minecraft)"
+	largeImageText = "It's BebraLand Create 2 (Minecraft)"
 	#The Asset ID/URL of the image to display as the small image
 	smallImageKey = ["mclogo"]
 	#The text that gets displayed when the small image is hovered
-	smallImageText = "BebraLand Create (%mcver%)"
+	smallImageText = "BebraLand Create 2 (%mcver%)"
 	#The buttons to display on Discord 
 
 	[[realms_list.buttons]]
@@ -113,7 +113,7 @@
 
 	[[realms_list.buttons]]
 		label = "Discord"
-		url = "https://discord.gg/a2vd5W9dGM"
+		url = "https://discord.gg/gVmrffxDMS"
 
 
 [join_game]
@@ -126,11 +126,11 @@
 	#The Asset ID/URL of the image to display as the large image
 	largeImageKey = ["bebralandicon"]
 	#The text that gets displayed when the large image is hovered
-	largeImageText = "It's BebraLand Create (Minecraft)"
+	largeImageText = "It's BebraLand Create 2 (Minecraft)"
 	#The Asset ID/URL of the image to display as the small image
 	smallImageKey = ["mclogo"]
 	#The text that gets displayed when the small image is hovered
-	smallImageText = "BebraLand Create (%mcver%)"
+	smallImageText = "BebraLand Create 2 (%mcver%)"
 	#The buttons to display on Discord 
 
 	[[join_game.buttons]]
@@ -139,7 +139,7 @@
 
 	[[join_game.buttons]]
 		label = "Discord"
-		url = "https://discord.gg/a2vd5W9dGM"
+		url = "https://discord.gg/gVmrffxDMS"
 
 
 [single_player]
@@ -152,11 +152,11 @@
 	#The Asset ID/URL of the image to display as the large image
 	largeImageKey = ["bebralandicon"]
 	#The text that gets displayed when the large image is hovered
-	largeImageText = "It's BebraLand Create (Minecraft)"
+	largeImageText = "It's BebraLand Create 2 (Minecraft)"
 	#The Asset ID/URL of the image to display as the small image
 	smallImageKey = ["mclogo"]
 	#The text that gets displayed when the small image is hovered
-	smallImageText = "BebraLand Create (%mcver%)"
+	smallImageText = "BebraLand Create 2 (%mcver%)"
 	#The buttons to display on Discord 
 
 	[[single_player.buttons]]
@@ -165,7 +165,7 @@
 
 	[[single_player.buttons]]
 		label = "Discord"
-		url = "https://discord.gg/a2vd5W9dGM"
+		url = "https://discord.gg/gVmrffxDMS"
 
 
 [multi_player]
@@ -178,11 +178,11 @@
 	#The Asset ID/URL of the image to display as the large image
 	largeImageKey = ["bebralandicon"]
 	#The text that gets displayed when the large image is hovered
-	largeImageText = "It's BebraLand Create (Minecraft)"
+	largeImageText = "It's BebraLand Create 2 (Minecraft)"
 	#The Asset ID/URL of the image to display as the small image
 	smallImageKey = ["mclogo"]
 	#The text that gets displayed when the small image is hovered
-	smallImageText = "BebraLand Create (%mcver%)"
+	smallImageText = "BebraLand Create 2 (%mcver%)"
 	#The buttons to display on Discord 
 
 	[[multi_player.buttons]]
@@ -191,7 +191,7 @@
 
 	[[multi_player.buttons]]
 		label = "Discord"
-		url = "https://discord.gg/a2vd5W9dGM"
+		url = "https://discord.gg/gVmrffxDMS"
 
 
 [realms]
@@ -204,7 +204,7 @@
 	#The Asset ID/URL of the image to display as the large image
 	largeImageKey = ["bebralandicon"]
 	#The text that gets displayed when the large image is hovered
-	largeImageText = "It's BebraLand Create (Minecraft)"
+	largeImageText = "It's BebraLand Create 2 (Minecraft)"
 	#The Asset ID/URL of the image to display as the small image
 	smallImageKey = ["mclogo"]
 	#The text that gets displayed when the small image is hovered
@@ -217,22 +217,22 @@
 
 	[[realms.buttons]]
 		label = "Discord"
-		url = "https://discord.gg/a2vd5W9dGM"
+		url = "https://discord.gg/gVmrffxDMS"
 
 
 [generic]
 	#The first line of text under the app name
-	description = "Playing BebraLand Create"
+	description = "Playing BebraLand Create 2"
 	#The second line of text under the app name
 	state = ""
 	#The Asset ID/URL of the image to display as the large image
 	largeImageKey = ["bebralandicon"]
 	#The text that gets displayed when the large image is hovered
-	largeImageText = "It's BebraLand Create (Minecraft)"
+	largeImageText = "It's BebraLand Create 2 (Minecraft)"
 	#The Asset ID/URL of the image to display as the small image
 	smallImageKey = ["mclogo"]
 	#The text that gets displayed when the small image is hovered
-	smallImageText = "BebraLand Create (%mcver%)"
+	smallImageText = "BebraLand Create 2 (%mcver%)"
 	#The buttons to display on Discord 
 
 	[[generic.buttons]]
@@ -241,7 +241,7 @@
 
 	[[generic.buttons]]
 		label = "Discord"
-		url = "https://discord.gg/a2vd5W9dGM"
+		url = "https://discord.gg/gVmrffxDMS"
 
 
 [custom]
@@ -260,7 +260,7 @@
 		largeImageKey = ["overworld"]
 		largeImageText = "In the Overworld"
 		smallImageKey = ["mclogo"]
-		smallImageText = "BebraLand Create (%mcver%)"
+		smallImageText = "BebraLand Create 2 (%mcver%)"
 
 		[[dimension_overrides.dimensions.buttons]]
 			label = "Website"
@@ -268,7 +268,7 @@
 
 		[[dimension_overrides.dimensions.buttons]]
 			label = "Discord"
-			url = "https://discord.gg/a2vd5W9dGM"
+			url = "https://discord.gg/gVmrffxDMS"
 
 
 	[[dimension_overrides.dimensions]]
@@ -278,7 +278,7 @@
 		largeImageKey = ["nether"]
 		largeImageText = "In the Nether"
 		smallImageKey = ["mclogo"]
-		smallImageText = "BebraLand Create (%mcver%)"
+		smallImageText = "BebraLand Create 2 (%mcver%)"
 
 		[[dimension_overrides.dimensions.buttons]]
 			label = "Website"
@@ -286,7 +286,7 @@
 
 		[[dimension_overrides.dimensions.buttons]]
 			label = "Discord"
-			url = "https://discord.gg/a2vd5W9dGM"
+			url = "https://discord.gg/gVmrffxDMS"
 
 
 	[[dimension_overrides.dimensions]]
@@ -296,7 +296,7 @@
 		largeImageKey = ["the_end"]
 		largeImageText = "In the End"
 		smallImageKey = ["mclogo"]
-		smallImageText = "BebraLand Create (%mcver%)"
+		smallImageText = "BebraLand Create 2 (%mcver%)"
 
 		[[dimension_overrides.dimensions.buttons]]
 			label = "Website"
@@ -304,7 +304,8 @@
 
 		[[dimension_overrides.dimensions.buttons]]
 			label = "Discord"
-			url = "https://discord.gg/a2vd5W9dGM"
+			url = "https://discord.gg/gVmrffxDMS"
+
 
 	[[dimension_overrides.dimensions]]
 		name = "mine"
@@ -313,7 +314,7 @@
 		largeImageKey = ["mine"]
 		largeImageText = "In the Mine world"
 		smallImageKey = ["mclogo"]
-		smallImageText = "BebraLand Create (%mcver%)"
+		smallImageText = "BebraLand Create 2 (%mcver%)"
 
 		[[dimension_overrides.dimensions.buttons]]
 			label = "Website"
@@ -321,7 +322,8 @@
 
 		[[dimension_overrides.dimensions.buttons]]
 			label = "Discord"
-			url = "https://discord.gg/a2vd5W9dGM"
+			url = "https://discord.gg/gVmrffxDMS"
+
 
 	[[dimension_overrides.dimensions]]
 		name = "minenether"
@@ -330,7 +332,7 @@
 		largeImageKey = ["nether"]
 		largeImageText = "In the Mine nether world"
 		smallImageKey = ["mclogo"]
-		smallImageText = "BebraLand Create (%mcver%)"
+		smallImageText = "BebraLand Create 2 (%mcver%)"
 
 		[[dimension_overrides.dimensions.buttons]]
 			label = "Website"
@@ -338,8 +340,9 @@
 
 		[[dimension_overrides.dimensions.buttons]]
 			label = "Discord"
-			url = "https://discord.gg/a2vd5W9dGM"
-			
+			url = "https://discord.gg/gVmrffxDMS"
+
+
 	[[dimension_overrides.dimensions]]
 		name = "farm"
 		description = "%player% is in Farm world"
@@ -347,7 +350,7 @@
 		largeImageKey = ["farm"]
 		largeImageText = "In the Farm world"
 		smallImageKey = ["mclogo"]
-		smallImageText = "BebraLand Create (%mcver%)"
+		smallImageText = "BebraLand Create 2 (%mcver%)"
 
 		[[dimension_overrides.dimensions.buttons]]
 			label = "Website"
@@ -355,4 +358,7 @@
 
 		[[dimension_overrides.dimensions.buttons]]
 			label = "Discord"
-			url = "https://discord.gg/a2vd5W9dGM"
+			url = "https://discord.gg/gVmrffxDMS"
+
+
+

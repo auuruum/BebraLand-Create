@@ -30,10 +30,37 @@
 				item = true
 				cow = true
 				rabbit = true
+				witch = true
+				zombie_villager = true
+				minecart = true
+				slime = true
+				arrow = true
+				experience_orb = true
+				tropical_fish = true
+				boat = true
+				potion = true
+				armor_stand = true
+				villager = true
+				turtle = true
+				dolphin = true
+				evoker = true
+				vex = true
+				mule = true
+				pillager = true
+				ravager = true
+				polar_bear = true
+				fox = true
+				cod = true
+				ender_dragon = true
 
 			[light_sources.settings.entities.beaver]
 				beaver = true
+				create_beaver = true
+				beaver_with_glasses = true
 
 			[light_sources.settings.entities.create]
 				stationary_contraption = true
+
+			[light_sources.settings.entities.enigmaticgraves]
+				grave = true
 
