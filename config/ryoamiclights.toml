@@ -57,6 +57,8 @@
 				eye_of_ender = true
 				llama = true
 				donkey = true
+				trader_llama = true
+				wandering_trader = true
 
 			[light_sources.settings.entities.beaver]
 				beaver = true
@@ -71,4 +73,10 @@
 
 			[light_sources.settings.entities.lootr]
 				lootr_minecart = true
+
+			[light_sources.settings.entities.strawstatues]
+				straw_statue = true
+
+			[light_sources.settings.entities.hedgehog]
+				hedgehog = true
 
