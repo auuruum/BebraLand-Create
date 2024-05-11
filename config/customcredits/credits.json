@@ -32,5 +32,16 @@
                 ]
             }
         ]
+    },
+    {
+        "section": "Everything",
+        "titles": [
+            {
+                "title": "was done by",
+                "names": [
+                    "Aurimas Dovgialo"
+                ]
+            }
+        ]
     }
 ]

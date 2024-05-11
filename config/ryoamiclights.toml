@@ -59,6 +59,7 @@
 				donkey = true
 				trader_llama = true
 				wandering_trader = true
+				firework_rocket = true
 
 			[light_sources.settings.entities.beaver]
 				beaver = true

@@ -3,13 +3,13 @@ type = fancymenu_layout
 layout-meta {
   identifier = drippy_loading_overlay
   render_custom_elements_behind_vanilla = false
-  last_edited_time = 1714510905262
+  last_edited_time = 1714828289850
   is_enabled = true
   randommode = false
   randomgroup = 1
   randomonlyfirsttime = false
   layout_index = 0
-  [loading_requirement_container_meta:60809436-96ee-49da-91d1-dbac06189bfc-1714510902281] = [groups:][instances:]
+  [loading_requirement_container_meta:24de3fd1-6929-46ec-a031-39c67390ab4d-1714828285297] = [groups:][instances:]
 }
 
 menu_background {
@@ -46,7 +46,7 @@ element {
   anchor_point = mid-centered
   x = -271
   y = -80
-  width = 543
+  width = 542
   height = 161
   stretch_x = false
   stretch_y = false
