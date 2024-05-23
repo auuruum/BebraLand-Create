@@ -52,6 +52,10 @@
   "enigmaticgraves:grave": null,
   "pipez:pipe": null,
   "toms_trading_network:vending_machine": null,
+  "easy_villagers:villager": null,
+  "easy_villagers:converter": null,
+  "easy_villagers:breeder": null,
+  "entangled:entangled_block_component": null,
   "toms_trading_network:vending_machine": null,
   "lootr:info": null,
   "lootr:inventory": null,
@@ -65,6 +69,7 @@
   "create:filter": null,
   "create:goggles": null,
   "pipez:pipe": null,
+  "entangled:entangled_block_component": null,
   "enigmaticgraves:grave": null,
   "minecraft:brewing_stand": null,
   "minecraft:beehive": null,
@@ -104,5 +109,8 @@
   "jade:registry_name": null,
   "jade:mod_name": null,
   "jade:distance": null,
-  "jade:block_face": null
+  "jade:block_face": null,
+  "easy_villagers:villager": null,
+  "easy_villagers:converter": null,
+  "easy_villagers:breeder": null
 }
